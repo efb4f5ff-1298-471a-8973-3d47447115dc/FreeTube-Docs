@@ -42,3 +42,11 @@ Stores your created playlists / saved videos
 ### history.db
 
 Stores your video watch history.
+
+### search-history.db
+
+Stores your search history.
+
+### subscription-cache.db
+
+Stores the information on uploads and community posts from your subscribed channels between app launches.
